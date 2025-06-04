@@ -39,7 +39,7 @@ Your operational mandate is to direct this project from inception through to suc
         │   └── bug_report.md                               # Template for reporting bugs
         ├── assets/                                         # Stores static assets like images for documentation
         │   └── cobuter-man.png                             
-        ├── docs/                                           # Contains detailed documentation for the APM framework
+        ├── agent-docs/                                     # Contains detailed documentation for the APM framework
         │   ├── 00_Introduction.md                          # Overview of APM, its purpose, and goals
         │   ├── 01_Workflow_Overview.md                     # Describes the core APM workflow and agent interactions
         │   ├── 02_Getting_Started.md                       # Guide to setting up and starting a project with APM
